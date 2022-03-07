@@ -41,10 +41,10 @@ input, select { vertical-align: middle; }
 
 /***** Basic Styles *****/
 @font-face {
-	font-family:'WisdomScriptAIRegular';
-	src: url('wisdom_script-webfont.woff2') format('woff2'),
-		url('font/wisdom_script-webfont.woff') format('woff'),
-		url('font/wisdom_script-webfont.ttf') format('truetype');
+	font-family:'Wisdom Script AI';
+	src: url('../fonts/WisdomScript/WisdomScript/WisdomScriptAI.otf') format('opentype');
+	src: url('../fonts/WisdomScript/WisdomScript/WisdomScriptAI.eot') format('eot');
+	src: url('../fonts/WisdomScript/WisdomScript/WisdomScriptAI.woff') format('woff');
 }
 
 body {
