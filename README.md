@@ -1,11 +1,14 @@
 # Skillcrush E-mail Signup Page
-Skillcrush 101 E-mail Signup Page Website. Made with HTML & CSS. Uses Bootstrap.
+Bonus project from Skillcrush 101 in August 2015. This is an example of email sign up page design.
+
+## Tech Stack
+- HTML
+- CSS
+- Bootstrap
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on a design created by Skillcrush. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
 
 ## Acknowledgements
 * Skillcrush
